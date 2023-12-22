@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Version 1.0 Cobbled together by kipper
 
 import sys
 
